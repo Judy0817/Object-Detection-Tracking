@@ -1,0 +1,106 @@
+[
+  {
+    "image": "img47.png",
+    "annotations": [
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 415.9367088607595,
+          "y": 564.3291139240507,
+          "width": 35.0,
+          "height": 33.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 435.9367088607595,
+          "y": 610.3291139240507,
+          "width": 53.0,
+          "height": 37.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 525.9367088607595,
+          "y": 609.3291139240507,
+          "width": 81.0,
+          "height": 61.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 615.9367088607595,
+          "y": 688.8291139240507,
+          "width": 67.0,
+          "height": 70.0
+        }
+      },
+      {
+        "label": "van",
+        "coordinates": {
+          "x": 639.4367088607595,
+          "y": 616.8291139240507,
+          "width": 142.0,
+          "height": 86.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 780.9367088607595,
+          "y": 684.8291139240507,
+          "width": 93.0,
+          "height": 84.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 1082.4367088607594,
+          "y": 669.3291139240507,
+          "width": 110.0,
+          "height": 115.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 1203.4367088607594,
+          "y": 681.8291139240507,
+          "width": 60.0,
+          "height": 80.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 867.4367088607595,
+          "y": 639.3291139240507,
+          "width": 78.0,
+          "height": 43.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 769.4367088607595,
+          "y": 614.8291139240507,
+          "width": 80.0,
+          "height": 64.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 54.936708860759474,
+          "y": 644.8291139240507,
+          "width": 107.0,
+          "height": 128.0
+        }
+      }
+    ]
+  }
+]

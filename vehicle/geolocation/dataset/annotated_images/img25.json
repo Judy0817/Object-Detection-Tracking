@@ -1,0 +1,106 @@
+[
+  {
+    "image": "img25.png",
+    "annotations": [
+      {
+        "label": "bus",
+        "coordinates": {
+          "x": 434.37500000000006,
+          "y": 234.75,
+          "width": 630.0,
+          "height": 189.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 506.875,
+          "y": 315.75,
+          "width": 388.99999999999994,
+          "height": 181.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 900.375,
+          "y": 293.25,
+          "width": 158.0,
+          "height": 124.0
+        }
+      },
+      {
+        "label": "van",
+        "coordinates": {
+          "x": 864.875,
+          "y": 239.25,
+          "width": 97.0,
+          "height": 82.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 1023.875,
+          "y": 233.25,
+          "width": 45.0,
+          "height": 46.0
+        }
+      },
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 1088.875,
+          "y": 230.75,
+          "width": 51.0,
+          "height": 61.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 1281.875,
+          "y": 274.75,
+          "width": 141.0,
+          "height": 99.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 1376.875,
+          "y": 246.25,
+          "width": 109.0,
+          "height": 86.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 1545.875,
+          "y": 274.25,
+          "width": 83.0,
+          "height": 70.0
+        }
+      },
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 1169.875,
+          "y": 216.75,
+          "width": 43.0,
+          "height": 63.0
+        }
+      },
+      {
+        "label": "bus",
+        "coordinates": {
+          "x": 1133.375,
+          "y": 207.25,
+          "width": 50.0,
+          "height": 74.0
+        }
+      }
+    ]
+  }
+]

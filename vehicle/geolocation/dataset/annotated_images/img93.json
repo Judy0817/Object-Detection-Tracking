@@ -1,0 +1,70 @@
+[
+  {
+    "image": "img93.png",
+    "annotations": [
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 108.21917808219175,
+          "y": 349.7671232876712,
+          "width": 120.0,
+          "height": 168.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 33.21917808219174,
+          "y": 396.7671232876712,
+          "width": 48.0,
+          "height": 50.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 524.2191780821918,
+          "y": 445.7671232876712,
+          "width": 174.00000000000006,
+          "height": 112.0
+        }
+      },
+      {
+        "label": "van",
+        "coordinates": {
+          "x": 844.2191780821918,
+          "y": 372.7671232876712,
+          "width": 264.0,
+          "height": 116.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 888.2191780821918,
+          "y": 444.7671232876712,
+          "width": 274.0,
+          "height": 150.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 446.2191780821917,
+          "y": 374.7671232876712,
+          "width": 118.0,
+          "height": 88.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 205.21917808219175,
+          "y": 386.7671232876712,
+          "width": 42.0,
+          "height": 40.0
+        }
+      }
+    ]
+  }
+]
