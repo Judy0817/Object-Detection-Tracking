@@ -1,0 +1,3673 @@
+[
+    {
+        "frame_number": 30,
+        "congestion_level": 4,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8018021583557129,
+                "bbox": [
+                    1682.1783447265625,
+                    179.98764038085938,
+                    1755.5047607421875,
+                    367.04638671875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.8951792120933533,
+                "bbox": [
+                    722.4693603515625,
+                    157.6425018310547,
+                    949.2981567382812,
+                    329.2972106933594
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 3,
+                "confidence": 0.2485208362340927,
+                "bbox": [
+                    523.0258178710938,
+                    31.612449645996094,
+                    558.6707153320312,
+                    88.41556549072266
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.7676864266395569,
+                "bbox": [
+                    895.7469482421875,
+                    942.6665649414062,
+                    1396.9620361328125,
+                    1050.65087890625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 31,
+        "congestion_level": 4,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8025072813034058,
+                "bbox": [
+                    1682.08154296875,
+                    179.5565948486328,
+                    1755.5994873046875,
+                    367.0979919433594
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 0.10742242661247813,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.8952643275260925,
+                "bbox": [
+                    720.947998046875,
+                    158.395751953125,
+                    948.5728759765625,
+                    330.55206298828125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 0.10742242661247813,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 3,
+                "confidence": 0.24625709652900696,
+                "bbox": [
+                    523.0235595703125,
+                    31.662982940673828,
+                    558.6242065429688,
+                    88.30709075927734
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 0.10742242661247813,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.7711018323898315,
+                "bbox": [
+                    895.5979614257812,
+                    942.6245727539062,
+                    1396.9737548828125,
+                    1050.6519775390625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 0.10742242661247813,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 32,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.804392397403717,
+                "bbox": [
+                    1682.08056640625,
+                    179.74220275878906,
+                    1755.56494140625,
+                    367.1265869140625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 43.431583232425076,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.875290036201477,
+                "bbox": [
+                    713.8428955078125,
+                    160.40040588378906,
+                    945.869140625,
+                    336.22296142578125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 43.431583232425076,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8141489624977112,
+                "bbox": [
+                    778.6319580078125,
+                    887.3956298828125,
+                    1537.113037109375,
+                    1052.8109130859375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 43.431583232425076,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 33,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8045158386230469,
+                "bbox": [
+                    1682.0733642578125,
+                    179.8168487548828,
+                    1755.557861328125,
+                    367.1367492675781
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 14.396822393921164,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.9110735654830933,
+                "bbox": [
+                    711.6683959960938,
+                    161.3884735107422,
+                    944.4365234375,
+                    338.104248046875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 14.396822393921164,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8162399530410767,
+                "bbox": [
+                    746.020751953125,
+                    869.2495727539062,
+                    1577.5250244140625,
+                    1053.417724609375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 14.396822393921164,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 34,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8046132922172546,
+                "bbox": [
+                    1682.0638427734375,
+                    179.8470916748047,
+                    1755.56201171875,
+                    367.1426696777344
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 5.084941142217495,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.9123036861419678,
+                "bbox": [
+                    710.9719848632812,
+                    161.79168701171875,
+                    943.7952270507812,
+                    338.840576171875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 5.084941142217495,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8158211708068848,
+                "bbox": [
+                    740.4507446289062,
+                    862.8704833984375,
+                    1585.740234375,
+                    1053.55419921875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 5.084941142217495,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 35,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8042978644371033,
+                "bbox": [
+                    1682.0537109375,
+                    179.86505126953125,
+                    1755.56982421875,
+                    367.153564453125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 0.8752058571459278,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.8854931592941284,
+                "bbox": [
+                    711.0272827148438,
+                    161.9903564453125,
+                    943.4581909179688,
+                    338.9821472167969
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 0.8752058571459278,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8119663596153259,
+                "bbox": [
+                    746.3049926757812,
+                    861.6373291015625,
+                    1579.99072265625,
+                    1053.6251220703125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 0.8752058571459278,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 36,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8019018769264221,
+                "bbox": [
+                    1682.0670166015625,
+                    180.09481811523438,
+                    1755.5946044921875,
+                    367.32568359375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 44.830529796579626,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.9051110148429871,
+                "bbox": [
+                    701.2567749023438,
+                    167.55160522460938,
+                    935.7811279296875,
+                    346.0915222167969
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 44.830529796579626,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8596621155738831,
+                "bbox": [
+                    647.7777709960938,
+                    804.0311279296875,
+                    1690.177490234375,
+                    1052.60546875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 44.830529796579626,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 37,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8017030358314514,
+                "bbox": [
+                    1682.0650634765625,
+                    180.19265747070312,
+                    1755.6136474609375,
+                    367.4000549316406
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 17.40257864333581,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.9047994017601013,
+                "bbox": [
+                    697.6116333007812,
+                    169.5311737060547,
+                    933.020751953125,
+                    348.71630859375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 17.40257864333581,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8623967170715332,
+                "bbox": [
+                    624.3865966796875,
+                    781.5934448242188,
+                    1717.752197265625,
+                    1052.219970703125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 17.40257864333581,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 38,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8019167184829712,
+                "bbox": [
+                    1682.0787353515625,
+                    180.318359375,
+                    1755.6175537109375,
+                    367.4236145019531
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 6.956208913557575,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.9046619534492493,
+                "bbox": [
+                    696.2844848632812,
+                    170.14199829101562,
+                    932.123046875,
+                    349.6449890136719
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 6.956208913557575,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8641647696495056,
+                "bbox": [
+                    628.7421264648438,
+                    772.5875244140625,
+                    1714.5931396484375,
+                    1052.0284423828125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 6.956208913557575,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 39,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8016964197158813,
+                "bbox": [
+                    1682.060546875,
+                    180.30810546875,
+                    1755.6541748046875,
+                    367.4730224609375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 33.338096272371196,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.8843353390693665,
+                "bbox": [
+                    688.9608764648438,
+                    174.84690856933594,
+                    926.2437133789062,
+                    355.5611572265625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 33.338096272371196,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8952875733375549,
+                "bbox": [
+                    596.2604370117188,
+                    735.5704956054688,
+                    1773.8873291015625,
+                    1053.591796875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 33.338096272371196,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 40,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7971947193145752,
+                "bbox": [
+                    1682.01708984375,
+                    180.37632751464844,
+                    1755.685546875,
+                    367.656005859375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 55.0919842728678,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.8697524666786194,
+                "bbox": [
+                    675.6687622070312,
+                    182.17379760742188,
+                    917.8721923828125,
+                    366.6806640625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 55.0919842728678,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8965919017791748,
+                "bbox": [
+                    561.9558715820312,
+                    680.4319458007812,
+                    1849.9049072265625,
+                    1048.26708984375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 55.0919842728678,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 41,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7955689430236816,
+                "bbox": [
+                    1681.98779296875,
+                    180.5732879638672,
+                    1755.648193359375,
+                    367.7315673828125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 22.82502102555814,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.8624354600906372,
+                "bbox": [
+                    670.7462158203125,
+                    184.90985107421875,
+                    914.7373046875,
+                    370.82867431640625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 22.82502102555814,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.9006748199462891,
+                "bbox": [
+                    571.2058715820312,
+                    657.3357543945312,
+                    1857.9483642578125,
+                    1046.32080078125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 22.82502102555814,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 42,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7963037490844727,
+                "bbox": [
+                    1681.9976806640625,
+                    180.78663635253906,
+                    1755.6187744140625,
+                    367.7555236816406
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 9.349726227090267,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.8643656969070435,
+                "bbox": [
+                    669.0413208007812,
+                    185.8686981201172,
+                    913.640869140625,
+                    372.30755615234375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 9.349726227090267,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.9012025594711304,
+                "bbox": [
+                    598.248779296875,
+                    648.3243408203125,
+                    1838.1419677734375,
+                    1045.1812744140625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 9.349726227090267,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 43,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7943161129951477,
+                "bbox": [
+                    1681.9710693359375,
+                    180.722412109375,
+                    1755.654052734375,
+                    367.7900695800781
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 51.67816383445568,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 2,
+                "confidence": 0.8603389263153076,
+                "bbox": [
+                    661.3834838867188,
+                    190.6573486328125,
+                    907.5420532226562,
+                    378.1905212402344
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 51.67816383445568,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.9204440116882324,
+                "bbox": [
+                    655.0264282226562,
+                    619.6148071289062,
+                    1801.93994140625,
+                    1008.13037109375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 51.67816383445568,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            }
+        ]
+    },
+    {
+        "frame_number": 153,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7693492770195007,
+                "bbox": [
+                    1682.047119140625,
+                    179.6268768310547,
+                    1755.9892578125,
+                    367.53497314453125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8343604803085327,
+                "bbox": [
+                    1317.301513671875,
+                    30.5118350982666,
+                    1418.797607421875,
+                    104.72441864013672
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            },
+            {
+                "tracker_id": 5,
+                "confidence": 0.7523397207260132,
+                "bbox": [
+                    982.4389038085938,
+                    914.91455078125,
+                    1472.1055908203125,
+                    1050.9451904296875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:25",
+                "vehicle_exit_time": "2024-08-16 05:56:25"
+            }
+        ]
+    },
+    {
+        "frame_number": 154,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7764374017715454,
+                "bbox": [
+                    1681.90576171875,
+                    179.35275268554688,
+                    1755.9371337890625,
+                    367.60662841796875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 41.40488077187836,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.8114544749259949,
+                "bbox": [
+                    1319.9051513671875,
+                    30.928924560546875,
+                    1416.9342041015625,
+                    100.12823486328125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 41.40488077187836,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            },
+            {
+                "tracker_id": 5,
+                "confidence": 0.8613013029098511,
+                "bbox": [
+                    895.7333984375,
+                    861.6654663085938,
+                    1579.8125,
+                    1053.138427734375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 41.40488077187836,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:25",
+                "vehicle_exit_time": "2024-08-16 05:56:25"
+            }
+        ]
+    },
+    {
+        "frame_number": 155,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7763475179672241,
+                "bbox": [
+                    1681.8919677734375,
+                    179.39132690429688,
+                    1755.875,
+                    367.6156005859375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 61.92782560852939,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.803862452507019,
+                "bbox": [
+                    1323.41943359375,
+                    31.31049156188965,
+                    1414.7672119140625,
+                    94.64325714111328
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 61.92782560852939,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            },
+            {
+                "tracker_id": 5,
+                "confidence": 0.912032425403595,
+                "bbox": [
+                    782.5027465820312,
+                    785.0609741210938,
+                    1723.7052001953125,
+                    1053.07666015625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 61.92782560852939,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:25",
+                "vehicle_exit_time": "2024-08-16 05:56:25"
+            }
+        ]
+    },
+    {
+        "frame_number": 156,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7789892554283142,
+                "bbox": [
+                    1681.8282470703125,
+                    179.3776397705078,
+                    1755.9210205078125,
+                    367.9715576171875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 52.66975795540063,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.7655820250511169,
+                "bbox": [
+                    1327.3203125,
+                    30.857070922851562,
+                    1413.6649169921875,
+                    88.9306869506836
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 52.66975795540063,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            },
+            {
+                "tracker_id": 5,
+                "confidence": 0.7548431158065796,
+                "bbox": [
+                    697.9275512695312,
+                    720.4471435546875,
+                    1830.2308349609375,
+                    1050.9827880859375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 52.66975795540063,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:25",
+                "vehicle_exit_time": "2024-08-16 05:56:25"
+            }
+        ]
+    },
+    {
+        "frame_number": 157,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7796136736869812,
+                "bbox": [
+                    1681.8314208984375,
+                    179.41319274902344,
+                    1755.9249267578125,
+                    368.0918273925781
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 23.32225857669104,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.7646934986114502,
+                "bbox": [
+                    1327.7911376953125,
+                    30.720314025878906,
+                    1414.0670166015625,
+                    87.21569061279297
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 23.32225857669104,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            },
+            {
+                "tracker_id": 5,
+                "confidence": 0.7924248576164246,
+                "bbox": [
+                    673.5994873046875,
+                    691.9130859375,
+                    1864.205810546875,
+                    1049.9547119140625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 23.32225857669104,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:25",
+                "vehicle_exit_time": "2024-08-16 05:56:25"
+            }
+        ]
+    },
+    {
+        "frame_number": 158,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7801589965820312,
+                "bbox": [
+                    1681.8720703125,
+                    179.56605529785156,
+                    1755.8916015625,
+                    368.1165466308594
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 8.221203446457311,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.7654039859771729,
+                "bbox": [
+                    1327.188720703125,
+                    30.661544799804688,
+                    1414.92578125,
+                    86.77474212646484
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 8.221203446457311,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            },
+            {
+                "tracker_id": 5,
+                "confidence": 0.7964653372764587,
+                "bbox": [
+                    679.4540405273438,
+                    681.8150024414062,
+                    1861.664794921875,
+                    1049.60400390625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 8.221203446457311,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:25",
+                "vehicle_exit_time": "2024-08-16 05:56:25"
+            }
+        ]
+    },
+    {
+        "frame_number": 159,
+        "congestion_level": 3,
+        "traffic_light": "green",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.7826157808303833,
+                "bbox": [
+                    1681.8916015625,
+                    179.646728515625,
+                    1755.876220703125,
+                    368.14691162109375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 51.873615157153495,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 4,
+                "confidence": 0.6616938710212708,
+                "bbox": [
+                    1330.656494140625,
+                    30.979305267333984,
+                    1413.3450927734375,
+                    82.05821990966797
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 51.873615157153495,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:21",
+                "vehicle_exit_time": "2024-08-16 05:56:21"
+            },
+            {
+                "tracker_id": 5,
+                "confidence": 0.9114105105400085,
+                "bbox": [
+                    675.3561401367188,
+                    636.5247192382812,
+                    1882.7264404296875,
+                    1027.842041015625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 51.873615157153495,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:25",
+                "vehicle_exit_time": "2024-08-16 05:56:25"
+            }
+        ]
+    },
+    {
+        "frame_number": 330,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8412560224533081,
+                "bbox": [
+                    1682.618896484375,
+                    181.5371856689453,
+                    1755.5748291015625,
+                    368.57501220703125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": true,
+                "red_light_violation_time": "2024-08-16 05:56:31",
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.4544960558414459,
+                "bbox": [
+                    956.89013671875,
+                    973.7880859375,
+                    1422.44091796875,
+                    1051.2498779296875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Unknown",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": true,
+                "vehicle_speed": 0,
+                "red_light_violation": true,
+                "red_light_violation_time": "2024-08-16 05:56:31",
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 331,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.832821249961853,
+                "bbox": [
+                    1682.0391845703125,
+                    181.359619140625,
+                    1755.477783203125,
+                    369.46783447265625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 81.55408105377992,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.8569879531860352,
+                "bbox": [
+                    753.17529296875,
+                    892.2174682617188,
+                    1697.975830078125,
+                    1051.1749267578125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 81.55408105377992,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 332,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8255757093429565,
+                "bbox": [
+                    1681.8822021484375,
+                    181.0461883544922,
+                    1755.589111328125,
+                    369.87890625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 41.107008715573095,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.8729163408279419,
+                "bbox": [
+                    646.3505859375,
+                    847.1614990234375,
+                    1835.6024169921875,
+                    1050.8953857421875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 41.107008715573095,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 333,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8251274824142456,
+                "bbox": [
+                    1681.8233642578125,
+                    180.9182586669922,
+                    1755.632080078125,
+                    370.05255126953125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 27.405073169579648,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.8872529864311218,
+                "bbox": [
+                    580.7789306640625,
+                    815.7877197265625,
+                    1920.0,
+                    1050.9520263671875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 27.405073169579648,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 334,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8214971423149109,
+                "bbox": [
+                    1681.807373046875,
+                    180.9249725341797,
+                    1755.6588134765625,
+                    370.19122314453125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 43.34973007698221,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9015469551086426,
+                "bbox": [
+                    529.9727783203125,
+                    788.2161254882812,
+                    1920.0,
+                    1050.9639892578125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 43.34973007698221,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 335,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8215616941452026,
+                "bbox": [
+                    1681.8023681640625,
+                    180.92123413085938,
+                    1755.6658935546875,
+                    370.2392272949219
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 8.328044799956755,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.901333212852478,
+                "bbox": [
+                    527.8592529296875,
+                    777.31005859375,
+                    1920.0,
+                    1050.968994140625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 8.328044799956755,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 336,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.823220431804657,
+                "bbox": [
+                    1681.8240966796875,
+                    180.925537109375,
+                    1755.67431640625,
+                    370.2449035644531
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 10.51100591777071,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9044556021690369,
+                "bbox": [
+                    522.17626953125,
+                    763.7720336914062,
+                    1920.0,
+                    1051.6962890625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 10.51100591777071,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 337,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8232683539390564,
+                "bbox": [
+                    1681.8233642578125,
+                    180.89895629882812,
+                    1755.6717529296875,
+                    370.2449951171875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 15.445755290205117,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9038749933242798,
+                "bbox": [
+                    542.28662109375,
+                    759.0919189453125,
+                    1920.0,
+                    1051.9378662109375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 15.445755290205117,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 338,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8217813968658447,
+                "bbox": [
+                    1681.814208984375,
+                    180.84487915039062,
+                    1755.6796875,
+                    370.2545166015625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 10.938050474317272,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9116290211677551,
+                "bbox": [
+                    542.0120239257812,
+                    744.2289428710938,
+                    1920.0,
+                    1052.2193603515625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 10.938050474317272,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 339,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8211954236030579,
+                "bbox": [
+                    1681.8089599609375,
+                    180.79844665527344,
+                    1755.688720703125,
+                    370.25885009765625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 17.993879024542746,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9114466905593872,
+                "bbox": [
+                    565.445068359375,
+                    738.908935546875,
+                    1920.0,
+                    1052.3914794921875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 17.993879024542746,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 340,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8196255564689636,
+                "bbox": [
+                    1681.8837890625,
+                    180.76666259765625,
+                    1755.764892578125,
+                    370.1457824707031
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 22.88932399934534,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9120291471481323,
+                "bbox": [
+                    597.6810302734375,
+                    738.0286254882812,
+                    1918.2781982421875,
+                    1052.7227783203125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 22.88932399934534,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 341,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8167557716369629,
+                "bbox": [
+                    1681.96142578125,
+                    180.8414306640625,
+                    1755.7742919921875,
+                    369.9560852050781
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 7.792397435074753,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9045975208282471,
+                "bbox": [
+                    618.9777221679688,
+                    729.2341918945312,
+                    1900.0767822265625,
+                    1051.59912109375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 7.792397435074753,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 342,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8200863003730774,
+                "bbox": [
+                    1681.8636474609375,
+                    180.90843200683594,
+                    1755.70263671875,
+                    370.022216796875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 15.220969766150006,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.909054160118103,
+                "bbox": [
+                    620.2031860351562,
+                    709.4755859375,
+                    1905.5299072265625,
+                    1052.1934814453125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 15.220969766150006,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 343,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8195021748542786,
+                "bbox": [
+                    1681.839599609375,
+                    180.94557189941406,
+                    1755.697509765625,
+                    370.0013732910156
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 5.718091613531617,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9099471569061279,
+                "bbox": [
+                    643.9139404296875,
+                    702.0192260742188,
+                    1884.0721435546875,
+                    1052.3662109375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 5.718091613531617,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 344,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8191065788269043,
+                "bbox": [
+                    1681.805419921875,
+                    181.02972412109375,
+                    1755.701416015625,
+                    370.0762634277344
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 1.1503595290692992,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9122868180274963,
+                "bbox": [
+                    674.3594360351562,
+                    700.0249633789062,
+                    1853.6907958984375,
+                    1052.8280029296875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 1.1503595290692992,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 345,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8219463229179382,
+                "bbox": [
+                    1681.876708984375,
+                    181.1563262939453,
+                    1755.78759765625,
+                    370.1720886230469
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 7.35278036490077,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9142166376113892,
+                "bbox": [
+                    695.007568359375,
+                    690.8431396484375,
+                    1836.2105712890625,
+                    1052.7320556640625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 7.35278036490077,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 346,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8246189951896667,
+                "bbox": [
+                    1681.8486328125,
+                    181.08062744140625,
+                    1755.83935546875,
+                    370.27459716796875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 2.345121171970069,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9142920970916748,
+                "bbox": [
+                    722.5282592773438,
+                    687.78955078125,
+                    1809.672607421875,
+                    1052.8172607421875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 2.345121171970069,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 347,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8262841701507568,
+                "bbox": [
+                    1681.8284912109375,
+                    180.96961975097656,
+                    1755.885986328125,
+                    370.36810302734375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 0.4273002712776709,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9151538014411926,
+                "bbox": [
+                    751.4867553710938,
+                    687.3200073242188,
+                    1780.7469482421875,
+                    1052.718017578125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 0.4273002712776709,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 348,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8209816813468933,
+                "bbox": [
+                    1682.03076171875,
+                    180.88304138183594,
+                    1756.1253662109375,
+                    370.3818664550781
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 13.107004749329983,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9179322123527527,
+                "bbox": [
+                    763.3358764648438,
+                    671.57861328125,
+                    1775.3411865234375,
+                    1052.214599609375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 13.107004749329983,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 349,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8234779834747314,
+                "bbox": [
+                    1682.14404296875,
+                    180.87754821777344,
+                    1756.2218017578125,
+                    370.3693542480469
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 4.99665288489103,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.915261447429657,
+                "bbox": [
+                    785.4171142578125,
+                    665.8170776367188,
+                    1755.6158447265625,
+                    1051.744384765625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 4.99665288489103,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 350,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8243716359138489,
+                "bbox": [
+                    1682.2044677734375,
+                    180.89566040039062,
+                    1756.255126953125,
+                    370.3699035644531
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 1.5068454983173682,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9160433411598206,
+                "bbox": [
+                    809.582763671875,
+                    664.1589965820312,
+                    1732.0191650390625,
+                    1051.4755859375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 1.5068454983173682,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 351,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8250323534011841,
+                "bbox": [
+                    1682.2135009765625,
+                    180.79440307617188,
+                    1756.27197265625,
+                    370.3399658203125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 13.01655556719263,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9137395620346069,
+                "bbox": [
+                    835.4805297851562,
+                    655.8035278320312,
+                    1710.3211669921875,
+                    1042.991455078125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 13.01655556719263,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 352,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8273928761482239,
+                "bbox": [
+                    1682.267822265625,
+                    180.79396057128906,
+                    1756.29443359375,
+                    370.31768798828125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 4.685920341876226,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9141391515731812,
+                "bbox": [
+                    858.2910766601562,
+                    653.0573120117188,
+                    1688.6827392578125,
+                    1039.6007080078125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 4.685920341876226,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 353,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8267028331756592,
+                "bbox": [
+                    1682.2894287109375,
+                    180.853759765625,
+                    1756.285400390625,
+                    370.3312683105469
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 1.3998459461003112,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.914372444152832,
+                "bbox": [
+                    878.7481079101562,
+                    652.5171508789062,
+                    1668.427978515625,
+                    1038.285400390625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "brown",
+                "stopped": false,
+                "vehicle_speed": 1.3998459461003112,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 354,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8284698724746704,
+                "bbox": [
+                    1682.3052978515625,
+                    180.79959106445312,
+                    1756.298095703125,
+                    370.32000732421875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 27.5266627219318,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9299622178077698,
+                "bbox": [
+                    906.1312866210938,
+                    637.5508422851562,
+                    1648.2830810546875,
+                    1017.2703247070312
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 27.5266627219318,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 355,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8284792304039001,
+                "bbox": [
+                    1682.3150634765625,
+                    180.77427673339844,
+                    1756.3009033203125,
+                    370.32012939453125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 9.97951466944378,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.929680347442627,
+                "bbox": [
+                    925.5955810546875,
+                    632.2173461914062,
+                    1631.2496337890625,
+                    1009.521728515625
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Middle Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 9.97951466944378,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 356,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8267020583152771,
+                "bbox": [
+                    1682.2852783203125,
+                    180.74903869628906,
+                    1756.281005859375,
+                    370.3411865234375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Right Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 24.878772252305268,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9286447763442993,
+                "bbox": [
+                    949.8555297851562,
+                    620.0736083984375,
+                    1611.6490478515625,
+                    988.8226318359375
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Right Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 24.878772252305268,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 357,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8253781795501709,
+                "bbox": [
+                    1682.265625,
+                    180.76358032226562,
+                    1756.2459716796875,
+                    370.34942626953125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Right Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 9.234463430101671,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9283804297447205,
+                "bbox": [
+                    966.6943359375,
+                    615.9349975585938,
+                    1596.4974365234375,
+                    980.7647705078125
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Right Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 9.234463430101671,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    },
+    {
+        "frame_number": 358,
+        "congestion_level": 2,
+        "traffic_light": "red",
+        "detections": [
+            {
+                "tracker_id": 1,
+                "confidence": 0.8270379900932312,
+                "bbox": [
+                    1682.2945556640625,
+                    180.82273864746094,
+                    1756.2354736328125,
+                    370.35272216796875
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 9,
+                "vehicle_type": "traffic light",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Right Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 2.8664397128074866,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": null,
+                "vehicle_exit_time": null
+            },
+            {
+                "tracker_id": 9,
+                "confidence": 0.9283943176269531,
+                "bbox": [
+                    979.6528930664062,
+                    614.8189086914062,
+                    1584.291259765625,
+                    978.1337280273438
+                ],
+                "geolocation": {
+                    "latitude": 37.7749,
+                    "longitude": -122.4194
+                },
+                "class_id": 2,
+                "vehicle_type": "car",
+                "vehicle_direction": "Up",
+                "vehicle_lane": "Right Lane",
+                "vehicle_color": "gray",
+                "stopped": false,
+                "vehicle_speed": 2.8664397128074866,
+                "red_light_violation": false,
+                "red_light_violation_time": null,
+                "line_crossing": false,
+                "line_crossing_violation_time": null,
+                "vehicle_entry_time": "2024-08-16 05:56:31",
+                "vehicle_exit_time": "2024-08-16 05:56:31"
+            }
+        ]
+    }
+]
