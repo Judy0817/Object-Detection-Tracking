@@ -1,0 +1,79 @@
+[
+  {
+    "image": "img42.png",
+    "annotations": [
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 1101.9367088607596,
+          "y": 569.8291139240506,
+          "width": 147.0,
+          "height": 261.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 1476.9367088607596,
+          "y": 441.3291139240506,
+          "width": 223.0,
+          "height": 160.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 671.9367088607596,
+          "y": 386.3291139240506,
+          "width": 35.0,
+          "height": 56.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 566.4367088607596,
+          "y": 424.8291139240506,
+          "width": 48.0,
+          "height": 77.0
+        }
+      },
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 328.43670886075955,
+          "y": 364.3291139240506,
+          "width": 238.0,
+          "height": 241.99999999999997
+        }
+      },
+      {
+        "label": "van",
+        "coordinates": {
+          "x": 888.4367088607596,
+          "y": 389.8291139240506,
+          "width": 160.0,
+          "height": 185.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 785.4367088607596,
+          "y": 344.3291139240506,
+          "width": 38.0,
+          "height": 62.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 690.9367088607596,
+          "y": 352.3291139240506,
+          "width": 63.0,
+          "height": 58.0
+        }
+      }
+    ]
+  }
+]

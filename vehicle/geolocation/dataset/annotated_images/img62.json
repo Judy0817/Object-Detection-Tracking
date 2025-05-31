@@ -1,0 +1,106 @@
+[
+  {
+    "image": "img62.png",
+    "annotations": [
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 39.37762237762233,
+          "y": 311.527972027972,
+          "width": 76.0,
+          "height": 66.0
+        }
+      },
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 356.87762237762234,
+          "y": 256.027972027972,
+          "width": 45.0,
+          "height": 69.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 393.37762237762234,
+          "y": 265.027972027972,
+          "width": 26.0,
+          "height": 35.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 422.87762237762234,
+          "y": 275.027972027972,
+          "width": 27.0,
+          "height": 49.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 464.87762237762234,
+          "y": 282.527972027972,
+          "width": 29.0,
+          "height": 36.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 769.3776223776223,
+          "y": 291.027972027972,
+          "width": 66.0,
+          "height": 39.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 994.6888111888111,
+          "y": 284.527972027972,
+          "width": 106.62237762237771,
+          "height": 54.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 999.6888111888111,
+          "y": 299.527972027972,
+          "width": 96.62237762237771,
+          "height": 34.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 848.8776223776223,
+          "y": 270.527972027972,
+          "width": 37.0,
+          "height": 38.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 615.8776223776223,
+          "y": 270.527972027972,
+          "width": 47.0,
+          "height": 28.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 184.87762237762234,
+          "y": 277.527972027972,
+          "width": 35.0,
+          "height": 22.0
+        }
+      }
+    ]
+  }
+]

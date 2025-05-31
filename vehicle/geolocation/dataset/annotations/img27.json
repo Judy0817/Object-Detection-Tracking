@@ -1,0 +1,61 @@
+[
+  {
+    "image": "img27.png",
+    "annotations": [
+      {
+        "label": "van",
+        "coordinates": {
+          "x": 413.375,
+          "y": 416.25,
+          "width": 200.0,
+          "height": 79.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 461.875,
+          "y": 471.75,
+          "width": 157.0,
+          "height": 82.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 830.875,
+          "y": 419.75,
+          "width": 165.0,
+          "height": 62.0
+        }
+      },
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 1173.375,
+          "y": 436.75,
+          "width": 162.0,
+          "height": 150.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 1009.375,
+          "y": 411.25,
+          "width": 140.0,
+          "height": 69.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 1329.875,
+          "y": 408.75,
+          "width": 51.0,
+          "height": 46.0
+        }
+      }
+    ]
+  }
+]

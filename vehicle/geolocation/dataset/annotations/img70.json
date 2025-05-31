@@ -1,0 +1,97 @@
+[
+  {
+    "image": "img70.png",
+    "annotations": [
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 49.18881118881117,
+          "y": 285.527972027972,
+          "width": 98.37762237762234,
+          "height": 37.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 40.377622377622345,
+          "y": 289.027972027972,
+          "width": 64.0,
+          "height": 40.0
+        }
+      },
+      {
+        "label": "van",
+        "coordinates": {
+          "x": 160.37762237762234,
+          "y": 284.527972027972,
+          "width": 108.0,
+          "height": 63.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 231.87762237762234,
+          "y": 297.027972027972,
+          "width": 33.0,
+          "height": 50.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 264.87762237762234,
+          "y": 304.527972027972,
+          "width": 35.0,
+          "height": 55.0
+        }
+      },
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 295.87762237762234,
+          "y": 273.527972027972,
+          "width": 59.0,
+          "height": 57.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 309.87762237762234,
+          "y": 301.527972027972,
+          "width": 39.0,
+          "height": 47.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 364.37762237762234,
+          "y": 297.027972027972,
+          "width": 56.0,
+          "height": 60.0
+        }
+      },
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 460.37762237762234,
+          "y": 278.527972027972,
+          "width": 82.0,
+          "height": 97.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 512.3776223776223,
+          "y": 310.527972027972,
+          "width": 25.999999999999943,
+          "height": 41.0
+        }
+      }
+    ]
+  }
+]

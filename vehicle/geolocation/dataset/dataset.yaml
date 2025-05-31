@@ -1,0 +1,12 @@
+path: dataset/split
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: tuk-tuk
+  1: motorcycle
+  2: car
+  3: van
+  4: bicycle
+  5: truck
+  6: bus

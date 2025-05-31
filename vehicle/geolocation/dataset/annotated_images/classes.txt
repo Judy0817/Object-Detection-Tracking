@@ -1,0 +1,7 @@
+tuk-tuk
+motorcycle
+car
+van
+bicycle
+truck
+bus

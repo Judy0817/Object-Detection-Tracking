@@ -1,0 +1,124 @@
+[
+  {
+    "image": "img65.png",
+    "annotations": [
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 68.37762237762233,
+          "y": 230.027972027972,
+          "width": 84.0,
+          "height": 91.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 131.37762237762234,
+          "y": 246.527972027972,
+          "width": 30.000000000000014,
+          "height": 44.0
+        }
+      },
+      {
+        "label": "tuk-tuk",
+        "coordinates": {
+          "x": 166.37762237762234,
+          "y": 249.527972027972,
+          "width": 40.0,
+          "height": 42.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 222.37762237762234,
+          "y": 255.527972027972,
+          "width": 18.0,
+          "height": 36.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 487.37762237762234,
+          "y": 258.527972027972,
+          "width": 44.0,
+          "height": 28.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 612.3776223776223,
+          "y": 249.527972027972,
+          "width": 72.0,
+          "height": 36.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 601.3776223776223,
+          "y": 255.027972027972,
+          "width": 40.0,
+          "height": 23.0
+        }
+      },
+      {
+        "label": "van",
+        "coordinates": {
+          "x": 711.8776223776223,
+          "y": 253.027972027972,
+          "width": 115.0,
+          "height": 65.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 796.3776223776223,
+          "y": 274.027972027972,
+          "width": 58.0,
+          "height": 45.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 832.3776223776223,
+          "y": 287.027972027972,
+          "width": 50.0,
+          "height": 59.0
+        }
+      },
+      {
+        "label": "motorcycle",
+        "coordinates": {
+          "x": 934.3776223776223,
+          "y": 289.527972027972,
+          "width": 70.0,
+          "height": 66.0
+        }
+      },
+      {
+        "label": "car",
+        "coordinates": {
+          "x": 1015.6888111888111,
+          "y": 291.027972027972,
+          "width": 64.62237762237771,
+          "height": 91.0
+        }
+      },
+      {
+        "label": "truck",
+        "coordinates": {
+          "x": 926.3776223776223,
+          "y": 247.527972027972,
+          "width": 134.0,
+          "height": 98.0
+        }
+      }
+    ]
+  }
+]
