@@ -1,0 +1,1739 @@
+{
+    "video_metadata": {
+        "filename": "uploads\\people_video - Trim.mp4",
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "duration_seconds": 1.706646,
+        "size_bytes": 491502,
+        "bitrate": 2303943,
+        "creation_time": "2025-04-09T16:44:19.000000Z",
+        "encoder": null,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 544,
+        "fps": 29.97,
+        "device_model": null,
+        "software": null,
+        "audio_codec": "aac",
+        "sample_rate": 48000,
+        "channels": 2,
+        "creation_time_utc": "2025-04-09 16:44:19 UTC",
+        "creation_time_local": "2025-04-09 22:14:19 Sri Lanka Standard Time",
+        "recording_time": "2025-04-09 22:14:19 Sri Lanka Standard Time"
+    },
+    "processing_time": "2025-05-15 03:07:44 UTC",
+    "summary": {
+        "total_people": 1,
+        "total_entering": 1,
+        "total_exiting": 1,
+        "restricted_area_entries": 0,
+        "restricted_people_ids": [],
+        "fps": 29.0,
+        "duration_seconds": 1.7586206896551724
+    },
+    "frame_detections": [
+        {
+            "frame_number": 0,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": []
+        },
+        {
+            "frame_number": 1,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": []
+        },
+        {
+            "frame_number": 2,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": []
+        },
+        {
+            "frame_number": 3,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": []
+        },
+        {
+            "frame_number": 4,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": []
+        },
+        {
+            "frame_number": 5,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": []
+        },
+        {
+            "frame_number": 6,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.8719883561134338,
+                    "bbox": [
+                        0.3670746088027954,
+                        225.02212524414062,
+                        65.9464340209961,
+                        503.6124572753906
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 6,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 7,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.872821033000946,
+                    "bbox": [
+                        0.7988632321357727,
+                        221.8734130859375,
+                        67.06361389160156,
+                        503.2447509765625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 7,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 8,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9017480611801147,
+                    "bbox": [
+                        2.508626699447632,
+                        219.822265625,
+                        69.45378875732422,
+                        503.36053466796875
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 8,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 9,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9057143926620483,
+                    "bbox": [
+                        2.313734292984009,
+                        218.57542419433594,
+                        69.67802429199219,
+                        503.26483154296875
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 9,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 10,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9177649021148682,
+                    "bbox": [
+                        2.736318588256836,
+                        218.41571044921875,
+                        70.4940414428711,
+                        503.7150573730469
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 10,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 11,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9310178756713867,
+                    "bbox": [
+                        3.302912712097168,
+                        217.8636474609375,
+                        71.6396484375,
+                        504.0719299316406
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 11,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 12,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9277855157852173,
+                    "bbox": [
+                        3.6991758346557617,
+                        216.8725128173828,
+                        72.83639526367188,
+                        504.5602722167969
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 12,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 13,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9236107468605042,
+                    "bbox": [
+                        5.714344501495361,
+                        215.88548278808594,
+                        76.09793853759766,
+                        505.05059814453125
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 13,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 14,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9226502776145935,
+                    "bbox": [
+                        8.155771255493164,
+                        214.67160034179688,
+                        80.20947265625,
+                        505.14019775390625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 14,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 15,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9253708720207214,
+                    "bbox": [
+                        10.942915916442871,
+                        213.03770446777344,
+                        85.27119445800781,
+                        505.2728576660156
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 15,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 16,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9261676669120789,
+                    "bbox": [
+                        18.290870666503906,
+                        212.29156494140625,
+                        93.88971710205078,
+                        505.6851806640625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 16,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 17,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9120544195175171,
+                    "bbox": [
+                        25.103458404541016,
+                        211.45315551757812,
+                        101.67759704589844,
+                        505.017822265625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 17,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 18,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9258745908737183,
+                    "bbox": [
+                        29.594043731689453,
+                        211.4462127685547,
+                        107.34368896484375,
+                        504.0262145996094
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 18,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 19,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9207478761672974,
+                    "bbox": [
+                        38.41254425048828,
+                        211.5715789794922,
+                        119.61286163330078,
+                        503.44561767578125
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 19,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 20,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9326401948928833,
+                    "bbox": [
+                        46.25149154663086,
+                        212.15811157226562,
+                        132.4234619140625,
+                        503.3822937011719
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 20,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 21,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9430969953536987,
+                    "bbox": [
+                        52.443241119384766,
+                        213.6920166015625,
+                        144.35293579101562,
+                        503.3804931640625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 21,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 22,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9455805420875549,
+                    "bbox": [
+                        56.13618469238281,
+                        214.98504638671875,
+                        154.1724395751953,
+                        502.8751525878906
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 22,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 23,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9441770315170288,
+                    "bbox": [
+                        57.84306716918945,
+                        216.3155975341797,
+                        162.00340270996094,
+                        502.5155334472656
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 23,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 24,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9461992383003235,
+                    "bbox": [
+                        58.594459533691406,
+                        217.3909454345703,
+                        168.61917114257812,
+                        502.15081787109375
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 24,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 25,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9417887926101685,
+                    "bbox": [
+                        58.40488815307617,
+                        217.257568359375,
+                        173.90621948242188,
+                        501.5806579589844
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 25,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 26,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9398505687713623,
+                    "bbox": [
+                        59.390811920166016,
+                        216.82171630859375,
+                        179.25962829589844,
+                        500.64776611328125
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 26,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 27,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9378379583358765,
+                    "bbox": [
+                        62.45859909057617,
+                        215.5552978515625,
+                        185.59786987304688,
+                        499.7775573730469
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 27,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 28,
+            "timestamp": "2025-04-09 16:44:19",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.934173583984375,
+                    "bbox": [
+                        66.9448013305664,
+                        214.72837829589844,
+                        192.1773223876953,
+                        499.7835388183594
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 28,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 29,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9383875727653503,
+                    "bbox": [
+                        73.7921371459961,
+                        213.42568969726562,
+                        198.35670471191406,
+                        496.1483154296875
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 29,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 30,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9339339733123779,
+                    "bbox": [
+                        81.32703399658203,
+                        212.2626953125,
+                        204.63589477539062,
+                        494.3635559082031
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 30,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 31,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9221811294555664,
+                    "bbox": [
+                        89.7977066040039,
+                        211.01991271972656,
+                        211.06138610839844,
+                        493.59033203125
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 31,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 32,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9131340980529785,
+                    "bbox": [
+                        99.20938110351562,
+                        209.0485382080078,
+                        217.69882202148438,
+                        493.488525390625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 32,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 33,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.8992058634757996,
+                    "bbox": [
+                        112.80193328857422,
+                        207.8225860595703,
+                        227.8192596435547,
+                        493.3633728027344
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 33,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 34,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9038780927658081,
+                    "bbox": [
+                        122.58329772949219,
+                        207.47311401367188,
+                        234.18740844726562,
+                        493.41748046875
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 34,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 35,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9015092253684998,
+                    "bbox": [
+                        131.43710327148438,
+                        207.00375366210938,
+                        240.48609924316406,
+                        493.6068420410156
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 35,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 36,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9201098084449768,
+                    "bbox": [
+                        140.0274658203125,
+                        207.7198486328125,
+                        247.44239807128906,
+                        493.380615234375
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 36,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 37,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.8977769613265991,
+                    "bbox": [
+                        146.01817321777344,
+                        208.53533935546875,
+                        252.6381378173828,
+                        493.1360168457031
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 37,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 38,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9293555021286011,
+                    "bbox": [
+                        154.90391540527344,
+                        208.5054473876953,
+                        263.0135192871094,
+                        492.50408935546875
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 38,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 39,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9283010363578796,
+                    "bbox": [
+                        160.5585174560547,
+                        209.76390075683594,
+                        270.5241394042969,
+                        492.1574401855469
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 39,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 40,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9255308508872986,
+                    "bbox": [
+                        163.10400390625,
+                        210.4478302001953,
+                        275.354736328125,
+                        491.93060302734375
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 40,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 41,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9346278309822083,
+                    "bbox": [
+                        163.90921020507812,
+                        210.97947692871094,
+                        278.4172058105469,
+                        491.6934814453125
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 41,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.7102272510528564,
+                    "bbox": [
+                        0.0,
+                        242.60516357421875,
+                        52.97196578979492,
+                        514.8854370117188
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 41,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 42,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9310498237609863,
+                    "bbox": [
+                        164.09976196289062,
+                        211.28758239746094,
+                        280.8326416015625,
+                        491.73046875
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 42,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.7944814562797546,
+                    "bbox": [
+                        0.0,
+                        228.43997192382812,
+                        54.480873107910156,
+                        514.9674682617188
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 42,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 43,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9318789839744568,
+                    "bbox": [
+                        164.1370086669922,
+                        211.4817657470703,
+                        282.57366943359375,
+                        490.8964538574219
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 43,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.8532470464706421,
+                    "bbox": [
+                        0.0,
+                        212.88536071777344,
+                        56.01864242553711,
+                        515.1199340820312
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 43,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 44,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9190390706062317,
+                    "bbox": [
+                        166.6822509765625,
+                        210.26690673828125,
+                        286.50958251953125,
+                        489.773681640625
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 44,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.867669939994812,
+                    "bbox": [
+                        0.0,
+                        206.33282470703125,
+                        55.809600830078125,
+                        514.939697265625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 44,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 45,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.932327389717102,
+                    "bbox": [
+                        170.4375457763672,
+                        208.9549102783203,
+                        291.02716064453125,
+                        488.84014892578125
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 45,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9196202754974365,
+                    "bbox": [
+                        0.0,
+                        203.28707885742188,
+                        57.664268493652344,
+                        514.5185546875
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 45,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 5,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.6605830192565918,
+                    "bbox": [
+                        461.6512451171875,
+                        213.4340057373047,
+                        501.2908020019531,
+                        450.4862060546875
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 45,
+                    "last_seen_frame": 45,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 46,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9292687773704529,
+                    "bbox": [
+                        177.9160614013672,
+                        208.07138061523438,
+                        296.9526062011719,
+                        485.8304748535156
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 46,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9232097864151001,
+                    "bbox": [
+                        0.0,
+                        202.17318725585938,
+                        61.84050369262695,
+                        514.9320678710938
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 46,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 5,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.7193565368652344,
+                    "bbox": [
+                        459.50048828125,
+                        211.78916931152344,
+                        499.4381408691406,
+                        450.475830078125
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 45,
+                    "last_seen_frame": 46,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 47,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9183387756347656,
+                    "bbox": [
+                        185.7222137451172,
+                        207.3100128173828,
+                        301.99835205078125,
+                        481.8185119628906
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 47,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9350961446762085,
+                    "bbox": [
+                        0.7435020208358765,
+                        201.48988342285156,
+                        66.50853729248047,
+                        515.6575927734375
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 47,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 5,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.7078740000724792,
+                    "bbox": [
+                        458.379150390625,
+                        211.190673828125,
+                        498.4427795410156,
+                        450.1871643066406
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 45,
+                    "last_seen_frame": 47,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 48,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.8987007737159729,
+                    "bbox": [
+                        194.90872192382812,
+                        206.81700134277344,
+                        307.8342590332031,
+                        478.63531494140625
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 48,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9385415315628052,
+                    "bbox": [
+                        6.039570331573486,
+                        201.42123413085938,
+                        72.80581665039062,
+                        514.8402709960938
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 48,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 5,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.7703806161880493,
+                    "bbox": [
+                        455.6018981933594,
+                        210.3456573486328,
+                        496.06512451171875,
+                        449.89996337890625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 45,
+                    "last_seen_frame": 48,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 49,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.8876214027404785,
+                    "bbox": [
+                        204.53614807128906,
+                        205.9403076171875,
+                        314.40283203125,
+                        477.491455078125
+                    ],
+                    "in_area1": true,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 49,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9388275146484375,
+                    "bbox": [
+                        14.227190971374512,
+                        202.0875701904297,
+                        83.61492919921875,
+                        515.1515502929688
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 49,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 5,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.6743672490119934,
+                    "bbox": [
+                        454.9959411621094,
+                        209.0294189453125,
+                        495.9653015136719,
+                        449.8798828125
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 45,
+                    "last_seen_frame": 49,
+                    "entered_restricted": false
+                }
+            ]
+        },
+        {
+            "frame_number": 50,
+            "timestamp": "2025-04-09 16:44:20",
+            "detections": [
+                {
+                    "tracker_id": 2,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.8927501440048218,
+                    "bbox": [
+                        214.35247802734375,
+                        205.85975646972656,
+                        320.987060546875,
+                        477.3789978027344
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Man",
+                    "age": 28,
+                    "carrying": "no objects",
+                    "entry_time": "2025-04-09 16:44:20",
+                    "exit_time": null,
+                    "first_seen_frame": 6,
+                    "last_seen_frame": 50,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 4,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.9425703883171082,
+                    "bbox": [
+                        22.80310821533203,
+                        203.20452880859375,
+                        96.31599426269531,
+                        515.6493530273438
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 41,
+                    "last_seen_frame": 50,
+                    "entered_restricted": false
+                },
+                {
+                    "tracker_id": 5,
+                    "class_id": 0,
+                    "class_name": "person",
+                    "confidence": 0.5893681049346924,
+                    "bbox": [
+                        454.00152587890625,
+                        208.35006713867188,
+                        495.7512512207031,
+                        451.38580322265625
+                    ],
+                    "in_area1": false,
+                    "in_area2": false,
+                    "in_restricted_area": false,
+                    "gender": "Unknown",
+                    "age": "Unknown",
+                    "carrying": "none",
+                    "entry_time": null,
+                    "exit_time": null,
+                    "first_seen_frame": 45,
+                    "last_seen_frame": 50,
+                    "entered_restricted": false
+                }
+            ]
+        }
+    ]
+}
