@@ -1,0 +1,1699 @@
+[
+    {
+        "frame_number": 0,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    320,
+                    276,
+                    354,
+                    436
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 1,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    320,
+                    276,
+                    353,
+                    433
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 2,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    319,
+                    273,
+                    354,
+                    436
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 3,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    318,
+                    274,
+                    353,
+                    441
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 4,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    316,
+                    274,
+                    354,
+                    449
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 5,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    317,
+                    273,
+                    353,
+                    441
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 6,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    317,
+                    273,
+                    351,
+                    427
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 7,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    316,
+                    272,
+                    350,
+                    424
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 8,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    314,
+                    272,
+                    349,
+                    426
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 9,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    313,
+                    271,
+                    348,
+                    425
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 10,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    310,
+                    271,
+                    348,
+                    440
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 11,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    309,
+                    270,
+                    347,
+                    436
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    425,
+                    189,
+                    456,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 12,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    305,
+                    270,
+                    349,
+                    461
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    427,
+                    189,
+                    458,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 13,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    302,
+                    271,
+                    348,
+                    473
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    429,
+                    188,
+                    460,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 14,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    300,
+                    271,
+                    347,
+                    478
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    430,
+                    186,
+                    461,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 15,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    301,
+                    271,
+                    345,
+                    465
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 16,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    299,
+                    271,
+                    345,
+                    473
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    431,
+                    185,
+                    463,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 17,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    298,
+                    271,
+                    345,
+                    477
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    430,
+                    184,
+                    462,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 18,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    297,
+                    271,
+                    345,
+                    479
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    431,
+                    183,
+                    463,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 19,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    295,
+                    272,
+                    344,
+                    480
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    431,
+                    183,
+                    463,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 20,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    294,
+                    272,
+                    343,
+                    480
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    433,
+                    183,
+                    466,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 21,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    294,
+                    272,
+                    343,
+                    478
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    433,
+                    182,
+                    467,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 22,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    293,
+                    272,
+                    344,
+                    479
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    435,
+                    182,
+                    469,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 23,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    293,
+                    271,
+                    344,
+                    480
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    436,
+                    182,
+                    469,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 24,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    290,
+                    270,
+                    343,
+                    479
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    437,
+                    182,
+                    470,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 25,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    291,
+                    269,
+                    347,
+                    480
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    439,
+                    181,
+                    472,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 26,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    287,
+                    270,
+                    345,
+                    480
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    440,
+                    181,
+                    473,
+                    294
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 27,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    284,
+                    269,
+                    344,
+                    480
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    443,
+                    181,
+                    476,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 28,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    278,
+                    267,
+                    340,
+                    480
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    444,
+                    181,
+                    477,
+                    296
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 29,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    276,
+                    268,
+                    339,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 30,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": []
+    },
+    {
+        "frame_number": 33,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    277,
+                    269,
+                    345,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 34,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    275,
+                    268,
+                    347,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 35,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    274,
+                    269,
+                    350,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 36,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    274,
+                    268,
+                    354,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 37,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": []
+    },
+    {
+        "frame_number": 38,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    278,
+                    269,
+                    360,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 39,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    454,
+                    175,
+                    490,
+                    297
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 40,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": []
+    },
+    {
+        "frame_number": 41,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    281,
+                    270,
+                    366,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 42,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": []
+    },
+    {
+        "frame_number": 43,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 4,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    462,
+                    174,
+                    500,
+                    299
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 44,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    718,
+                    167,
+                    749,
+                    230
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 45,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    719,
+                    167,
+                    749,
+                    225
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 46,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    718,
+                    167,
+                    750,
+                    229
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 9,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    759,
+                    0,
+                    854,
+                    478
+                ]
+            },
+            {
+                "hardhat": false,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    272,
+                    272,
+                    363,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 47,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    717,
+                    168,
+                    751,
+                    237
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 9,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    763,
+                    0,
+                    854,
+                    478
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    267,
+                    271,
+                    364,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 48,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    717,
+                    169,
+                    751,
+                    240
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 9,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    768,
+                    0,
+                    854,
+                    477
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    260,
+                    271,
+                    364,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 49,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    716,
+                    170,
+                    751,
+                    240
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 9,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    771,
+                    0,
+                    854,
+                    473
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    255,
+                    271,
+                    364,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 50,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    715,
+                    170,
+                    750,
+                    240
+                ]
+            },
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    249,
+                    274,
+                    362,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 51,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    715,
+                    170,
+                    749,
+                    241
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    247,
+                    278,
+                    365,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 52,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    715,
+                    170,
+                    749,
+                    241
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 2,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    239,
+                    283,
+                    365,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 53,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    715,
+                    169,
+                    749,
+                    241
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 54,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    715,
+                    168,
+                    750,
+                    241
+                ]
+            }
+        ]
+    },
+    {
+        "frame_number": 55,
+        "timestamp": "2025-05-26 09:52:12 UTC",
+        "people": [
+            {
+                "hardhat": true,
+                "mask": null,
+                "safety_vest": false,
+                "tracker_id": 8,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    716,
+                    168,
+                    750,
+                    241
+                ]
+            },
+            {
+                "hardhat": null,
+                "mask": null,
+                "safety_vest": null,
+                "tracker_id": 12,
+                "safety_status": "Unsafe",
+                "missing_items": [
+                    "hardhat",
+                    "mask",
+                    "safety_vest"
+                ],
+                "bbox": [
+                    187,
+                    305,
+                    534,
+                    480
+                ]
+            }
+        ]
+    }
+]
